@@ -17,6 +17,7 @@ public class Treat : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        //todo probably check for cat 
         OnFishCollected?.Invoke(this, new OnFishCollectedEventArgs
         {
             TreatScore = score,

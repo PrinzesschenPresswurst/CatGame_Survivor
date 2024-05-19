@@ -8,8 +8,7 @@ public class ToDo_Notes : MonoBehaviour
      * Enemies that move / have health bar / drop money 
      * Tnt / with health bar / explodes
      * 
-     * Money to pickup with UI counter (/)
-     * 
+     *
      * Gun point in mouse / finger direction 
      * Gun have different damage / shoot different projectiles
      * Potion for superspeed 
@@ -20,6 +19,12 @@ public class ToDo_Notes : MonoBehaviour
      * use events
      * use enums
      * use namespaces
+     */
+ 
+    /*
+     * DONE
+     * Money to pickup with UI counter (/)
+     * 
      */
     
    
