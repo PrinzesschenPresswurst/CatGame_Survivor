@@ -5,10 +5,10 @@ using UnityEngine;
 public class ToDo_Notes : MonoBehaviour
 {
     /* Inventory with slots 
-     * Enemies that move / have health boar / drop money 
+     * Enemies that move / have health bar / drop money 
      * Tnt / with health bar / explodes
      * 
-     * Money to pickup with UI counter
+     * Money to pickup with UI counter (/)
      * 
      * Gun point in mouse / finger direction 
      * Gun have different damage / shoot different projectiles
